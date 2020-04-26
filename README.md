@@ -1,3 +1,4 @@
+# A monotasker text to key-press script
 Hello there!
 
 This is a simple script to read and trigger keystrokes.
@@ -28,4 +29,4 @@ USE AT YOUR OWN RISK.
 
 Basically TEST THE CODE IN A NOTEPAD.
 
-## I might update this with other things modules to give it more variety. 
+## I might update this with other things and modules to give it more flexibility. 
