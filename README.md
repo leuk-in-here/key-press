@@ -27,3 +27,5 @@ Downsides
 USE AT YOUR OWN RISK.
 
 Basically TEST THE CODE IN A NOTEPAD.
+
+## I might update this with other things modules to give it more variety. 
