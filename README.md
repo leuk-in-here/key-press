@@ -4,6 +4,8 @@ This is a simple script to read and trigger keystrokes.
 
 It uses Python and is based off Pynput.
 
+NOTE: you need to install Pynput for this to work.
+
 For more details regarding Pynput, check this website out - > https://pynput.readthedocs.io/en/latest/index.html
 
 Pynput basically gives access to Python to use keypresses.
