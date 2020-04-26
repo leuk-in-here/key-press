@@ -12,7 +12,7 @@ Pynput basically gives access to Python to use keypresses.
 
   Well, what is this really useful for?
 
-This is useful in the setting where by you are unable to copy and paste information that you might need to.
+This is useful in the setting where by you are unable to copy and paste information that you might want to.
 
 An example is a website that prevents pasting in text boxes -> this technically can bypass that by instead typing into the input.txt
 The script then converts the input.txt into character presses.
